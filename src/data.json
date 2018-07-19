@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/Carrey.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/Clive.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/denzel.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/Gabby.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/Hall.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/idris.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/Jim.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/Julia.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/leo.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/regina.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/rock.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/will.png",
+    "clicked": false
+  }
+]
